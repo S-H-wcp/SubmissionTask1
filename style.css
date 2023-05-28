@@ -80,10 +80,5 @@
     .step-box:last-child{
         margin-bottom: 0;
     }
-
-    .step-img1{
-        height:150px;
-        background-size:cover;
-    }
-
+    
 }
